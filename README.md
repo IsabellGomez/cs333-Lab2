@@ -1,4 +1,5 @@
 # cs333-lab2
+# Isabell Gomez
 JS event handlers + functions + loops: build a drum kit 🥁
 
 Do each step below, and **answer the questions right here in this `README.md` file** as you go (type your answers under each question).
